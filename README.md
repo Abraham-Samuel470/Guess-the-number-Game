@@ -1,6 +1,7 @@
 # Guess-the-number-Game
 
 This is a simple **C++ console-based number guessing game** where the player has 7 attempts to guess a randomly generated number between 1 and 100. The game provides feedback on whether the guess is too high or too low after each attempt. If the player guesses the number correctly, they win; otherwise, the game ends with the correct number revealed.
+You can even change the number from 1 and 1000 or maybr more to make the challenge a bit more exciting
 
 **Key Features**:
 - Random number generation using `rand()` and `srand()`
